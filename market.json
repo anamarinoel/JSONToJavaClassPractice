@@ -1,0 +1,629 @@
+{
+    "id": "E-400966",
+    "version": 65,
+    "sportId": "FBL",
+    "eventId": "E-10434",
+    "name": " 3 - Way",
+    "nameTid": "",
+    "status": {
+        "BrandA": 1,
+        "BrandB": 1,
+        "Default": 1
+    },
+    "statusOverrides": {
+        "BrandA": {
+            "original": 2,
+            "override": 1,
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.90519238Z"
+        },
+        "BrandB": {
+            "original": 2,
+            "override": 1,
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.905194652Z"
+        },
+        "Default": {
+            "original": 2,
+            "override": 1,
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.905195512Z"
+        }
+    },
+    "tradeStatus": {
+        "BrandA": 2,
+        "BrandB": 2,
+        "Default": 2
+    },
+    "tradeStatusOverrides": {},
+    "marketType": {
+        "legType": "SIMPLE",
+        "resultType": "",
+        "picks": 1,
+        "orderImportant": false
+    },
+    "taxonomy": {
+        "type": "WINNER2D",
+        "period": "FLGM",
+        "scoreType": "GL",
+        "isLive": false
+    },
+    "selections": [
+        [
+            {
+                "id": "W2-1",
+                "participantId": "E-446",
+                "name": "FC Torino",
+                "nameTid": "",
+                "status": {
+                    "BrandA": 1,
+                    "BrandB": 1,
+                    "Default": 1
+                },
+                "statusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919789249Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.91979907Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.627936388Z"
+                    }
+                },
+                "tradeStatus": {
+                    "BrandA": 1,
+                    "BrandB": 1,
+                    "Default": 1
+                },
+                "tradeStatusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919789944Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.91979931Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 1,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.627937364Z"
+                    }
+                },
+                "price": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "1.36"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "1.36"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "1.36"
+                        }
+                    }
+                },
+                "priceOverrides": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.56"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.36"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919791845Z"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.56"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.36"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919800007Z"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.56"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "1.36"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:48.62793885Z"
+                        }
+                    }
+                },
+                "side": 1,
+                "line": 0,
+                "pushHonored": false,
+                "placeReduction": 0,
+                "homeScore": 0,
+                "awayScore": 0,
+                "band": {
+                    "lower": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    },
+                    "upper": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    }
+                }
+            },
+            {
+                "id": "W2-D",
+                "participantId": "",
+                "name": "Draw",
+                "nameTid": "",
+                "status": {
+                    "BrandA": 2,
+                    "BrandB": 2,
+                    "Default": 2
+                },
+                "statusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.91979491Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919800641Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.627939808Z"
+                    }
+                },
+                "tradeStatus": {
+                    "BrandA": 2,
+                    "BrandB": 2,
+                    "Default": 2
+                },
+                "tradeStatusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919795115Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919800884Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.627940015Z"
+                    }
+                },
+                "price": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "3.9"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "3.9"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "3.9"
+                        }
+                    }
+                },
+                "priceOverrides": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919795899Z"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919801632Z"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "3.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:48.627940925Z"
+                        }
+                    }
+                },
+                "side": 2,
+                "line": 0,
+                "pushHonored": false,
+                "placeReduction": 0,
+                "homeScore": 0,
+                "awayScore": 0,
+                "band": {
+                    "lower": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    },
+                    "upper": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    }
+                }
+            },
+            {
+                "id": "W2-2",
+                "participantId": "E-777",
+                "name": "Genoa CFC",
+                "nameTid": "",
+                "status": {
+                    "BrandA": 2,
+                    "BrandB": 2,
+                    "Default": 2
+                },
+                "statusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919796977Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919802962Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.62794262Z"
+                    }
+                },
+                "tradeStatus": {
+                    "BrandA": 2,
+                    "BrandB": 2,
+                    "Default": 2
+                },
+                "tradeStatusOverrides": {
+                    "BrandA": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919797162Z"
+                    },
+                    "BrandB": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:29.919803162Z"
+                    },
+                    "Default": {
+                        "original": 2,
+                        "override": 2,
+                        "overrideType": 1,
+                        "who": "1",
+                        "when": "2020-01-09T11:34:48.62794283Z"
+                    }
+                },
+                "price": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "4.9"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "4.9"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "up": 0,
+                            "down": 0,
+                            "dec": "4.9"
+                        }
+                    }
+                },
+                "priceOverrides": {
+                    "BrandA": {
+                        "BrandA-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919797784Z"
+                        }
+                    },
+                    "BrandB": {
+                        "BrandB-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:29.919803897Z"
+                        }
+                    },
+                    "Default": {
+                        "Default-0": {
+                            "original": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "override": {
+                                "up": 0,
+                                "down": 0,
+                                "dec": "4.9"
+                            },
+                            "overrideType": 1,
+                            "who": "1",
+                            "when": "2020-01-09T11:34:48.627943368Z"
+                        }
+                    }
+                },
+                "side": 3,
+                "line": 0,
+                "pushHonored": false,
+                "placeReduction": 0,
+                "homeScore": 0,
+                "awayScore": 0,
+                "band": {
+                    "lower": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    },
+                    "upper": {
+                        "value": 0,
+                        "isValueIncluded": false,
+                        "isZero": false
+                    }
+                }
+            }
+        ]
+    ],
+    "betting": {
+        "BrandA": {
+            "startTime": "2019-12-31T06:56:28Z",
+            "endTime": "2020-01-23T11:34:08Z"
+        },
+        "BrandB": {
+            "startTime": "2019-12-31T06:56:28Z",
+            "endTime": "2020-01-23T11:34:08Z"
+        },
+        "Default": {
+            "startTime": "2019-12-31T06:56:28Z",
+            "endTime": "2020-01-23T11:34:08Z"
+        }
+    },
+    "bettingOverrides": {
+        "BrandA": {
+            "original": {
+                "startTime": "2019-12-30T06:56:28.044116501Z",
+                "endTime": "0001-01-01T00:00:00Z"
+            },
+            "override": {
+                "startTime": "2019-12-31T06:56:28Z",
+                "endTime": "2020-01-23T11:34:08Z"
+            },
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.905194258Z"
+        },
+        "BrandB": {
+            "original": {
+                "startTime": "2019-12-30T06:56:28.044116501Z",
+                "endTime": "0001-01-01T00:00:00Z"
+            },
+            "override": {
+                "startTime": "2019-12-31T06:56:28Z",
+                "endTime": "2020-01-23T11:34:08Z"
+            },
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.905195188Z"
+        },
+        "Default": {
+            "original": {
+                "startTime": "2019-12-30T06:56:28.044116501Z",
+                "endTime": "0001-01-01T00:00:00Z"
+            },
+            "override": {
+                "startTime": "2019-12-31T06:56:28Z",
+                "endTime": "2020-01-23T11:34:08Z"
+            },
+            "overrideType": 1,
+            "who": "1",
+            "when": "2020-01-09T11:34:14.905195943Z"
+        }
+    },
+    "betDelay": 0,
+    "hasBetDelay": false,
+    "availableBetTypes": null,
+    "resultedTime": {
+		 "BrandA": "2019-12-04T21:55:10.009311056Z",
+        "BrandB": "2019-12-04T21:55:10.009311056Z",
+        "Default": "2019-12-04T21:55:10.009311056Z"
+	},
+    "result": {
+		 "BrandA": [
+            {
+                "selectionResult": {
+                    "W2-1": 0,
+                    "W2-2": 1,
+                    "W2-D": 1
+                },
+                "loosersImplied": true,
+                "isPartial": false,
+                "resultedTime": "2019-12-04T21:55:10.009311056Z"
+            }
+        ],
+        "BrandB": [
+            {
+                "selectionResult": {
+                    "W2-1": 0,
+                    "W2-2": 1,
+                    "W2-D": 1
+                },
+                "loosersImplied": true,
+                "isPartial": false,
+                "resultedTime": "2019-12-04T21:55:10.009311056Z"
+            }
+        ],
+        "Default": [
+            {
+                "selectionResult": {
+                    "W2-1": 0,
+                    "W2-2": 1,
+                    "W2-D": 1
+                },
+                "loosersImplied": true,
+                "isPartial": false,
+                "resultedTime": "2019-12-04T21:55:10.009311056Z"
+            }
+        ]
+	},
+    "betVoidPeriods": null,
+    "createdAt": "2019-12-30T06:56:28.047386Z"
+}
